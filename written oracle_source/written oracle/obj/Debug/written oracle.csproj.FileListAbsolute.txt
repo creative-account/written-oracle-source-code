@@ -1,0 +1,35 @@
+C:\Users\Yuta-\source\repos\written oracle\written oracle\bin\Debug\written oracle.exe.config
+C:\Users\Yuta-\source\repos\written oracle\written oracle\bin\Debug\written oracle.exe
+C:\Users\Yuta-\source\repos\written oracle\written oracle\bin\Debug\written oracle.pdb
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.csproj.AssemblyReference.cache
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\MainWindow.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\App.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle_MarkupCompile.cache
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle_MarkupCompile.lref
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\MainWindow.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.g.resources
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written_oracle.Properties.Resources.resources
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.csproj.GenerateResource.cache
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.csproj.CoreCompileInputs.cache
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.exe
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.pdb
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\大吉.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\大吉.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\中吉.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\中吉.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\吉.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\吉.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\末吉.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\末吉.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\小吉.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\小吉.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\凶.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\大凶.g.cs
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\凶.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\大凶.baml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\bin\Debug\written oracle.exe.manifest
+C:\Users\Yuta-\source\repos\written oracle\written oracle\bin\Debug\written oracle.application
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.TrustInfo.xml
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.exe.manifest
+C:\Users\Yuta-\source\repos\written oracle\written oracle\obj\Debug\written oracle.application
